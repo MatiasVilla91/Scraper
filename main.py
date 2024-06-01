@@ -14,7 +14,7 @@ from selenium.webdriver.chrome.options import Options
 #SCRAPING
 
 driver_path = r'C:\dchrome\chromedriver.exe'  #Ubicaciòn del driver
-url = 'https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home'     #Web solicitada
+url = 'Link a la web a scrapear'     #Web solicitada
 download_path = r'C:\Users\matia\Documents\prueba_tecnica'
 
 
